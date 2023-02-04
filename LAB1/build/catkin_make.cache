@@ -1,0 +1,2 @@
+bag_plot:gps_driver
+-DCATKIN_DEVEL_PREFIX=/home/saad/sahq1/devel -DCMAKE_INSTALL_PREFIX=/home/saad/sahq1/install -G Unix Makefiles
