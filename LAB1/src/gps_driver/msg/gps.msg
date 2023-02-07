@@ -4,5 +4,7 @@ float64 longitude
 float64 altitude
 float64 utm_easting
 float64 utm_northing
+float64 HDOP
+float64 UTC
 int64 zone
 string letter
