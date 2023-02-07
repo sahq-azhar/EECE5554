@@ -1,0 +1,3964 @@
+Time,header.seq,header.stamp.secs,header.stamp.nsecs,header.frame_id,level,name,msg,file,function,line,topics
+1675727419.1444974,1,1675727419,138267825,,2,/record_1675727419106942191,Subscribing to /rosout,/tmp/binarydeb/ros-melodic-rosbag-1.14.13/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,255,['/rosout']
+1675727419.1445184,2,1675727419,140513577,,2,/record_1675727419106942191,Subscribing to /gps_message,/tmp/binarydeb/ros-melodic-rosbag-1.14.13/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,255,['/rosout']
+1675727419.144523,3,1675727419,142440569,,2,/record_1675727419106942191,Subscribing to /rosout_agg,/tmp/binarydeb/ros-melodic-rosbag-1.14.13/src/recorder.cpp,shared_ptr<ros::Subscriber> rosbag::Recorder::subscribe,255,['/rosout']
+1675727419.3525581,8,1675727418,417587041,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393516667
+longitude: -71.08691
+altitude: 29.7
+utm_easting: 328084.8112579016
+HDOP: 2.2
+UTC: 235019.0
+utm_northing: 4689564.367262065
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727419.4182644,9,1675727419,417244911,,2,/talker,"header: ""$GPGGA""
+latitude: 42.339345
+longitude: -71.0869133333
+altitude: 31.1
+utm_easting: 328084.5184848835
+HDOP: 2.2
+UTC: 235020.0
+utm_northing: 4689563.633718967
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727420.413981,10,1675727420,413752079,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869183333
+altitude: 32.2
+utm_easting: 328084.06569871004
+HDOP: 2.2
+UTC: 235021.0
+utm_northing: 4689561.978192337
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727421.4189198,11,1675727421,418368101,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0869183333
+altitude: 32.2
+utm_easting: 328084.070240889
+HDOP: 2.2
+UTC: 235022.0
+utm_northing: 4689562.163263005
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727422.4179122,12,1675727422,417365074,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0869183333
+altitude: 32.2
+utm_easting: 328084.070240889
+HDOP: 2.2
+UTC: 235023.0
+utm_northing: 4689562.163263005
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727423.4177997,13,1675727423,417246103,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0869183333
+altitude: 32.2
+utm_easting: 328084.070240889
+HDOP: 2.2
+UTC: 235024.0
+utm_northing: 4689562.163263005
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727424.4185088,14,1675727424,417740106,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0869183333
+altitude: 32.2
+utm_easting: 328084.070240889
+HDOP: 2.2
+UTC: 235025.0
+utm_northing: 4689562.163263005
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727425.4184759,15,1675727425,417640924,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0869183333
+altitude: 32.2
+utm_easting: 328084.070240889
+HDOP: 2.2
+UTC: 235026.0
+utm_northing: 4689562.163263005
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727426.4189663,16,1675727426,418109893,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0869183333
+altitude: 32.2
+utm_easting: 328084.070240889
+HDOP: 2.2
+UTC: 235027.0
+utm_northing: 4689562.163263005
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727427.4190252,17,1675727427,418490886,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0869183333
+altitude: 32.2
+utm_easting: 328084.070240889
+HDOP: 2.2
+UTC: 235028.0
+utm_northing: 4689562.163263005
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727428.4213817,18,1675727428,418262004,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869183333
+altitude: 32.1
+utm_easting: 328084.06569871004
+HDOP: 2.2
+UTC: 235029.0
+utm_northing: 4689561.978192337
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727429.4196317,19,1675727429,419097900,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869183333
+altitude: 32.1
+utm_easting: 328084.06569871004
+HDOP: 2.2
+UTC: 235030.0
+utm_northing: 4689561.978192337
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727430.4202192,20,1675727430,418550968,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869183333
+altitude: 32.1
+utm_easting: 328084.06569871004
+HDOP: 2.2
+UTC: 235031.0
+utm_northing: 4689561.978192337
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727431.4198747,21,1675727431,418256044,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869183333
+altitude: 32.1
+utm_easting: 328084.06569871004
+HDOP: 2.2
+UTC: 235032.0
+utm_northing: 4689561.978192337
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727432.4185789,22,1675727432,417850017,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.08692
+altitude: 32.1
+utm_easting: 328083.91022776405
+HDOP: 2.2
+UTC: 235033.0
+utm_northing: 4689561.241279465
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727433.4209974,23,1675727433,419122934,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393183333
+longitude: -71.08692
+altitude: 32.0
+utm_easting: 328083.89660121896
+HDOP: 2.2
+UTC: 235034.0
+utm_northing: 4689560.686067457
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727434.4191513,24,1675727434,418346881,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33932
+longitude: -71.0869216667
+altitude: 32.0
+utm_easting: 328083.7638411594
+HDOP: 2.2
+UTC: 235035.0
+utm_northing: 4689560.874507931
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727435.4192507,25,1675727435,418544054,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393183333
+longitude: -71.0869216667
+altitude: 32.0
+utm_easting: 328083.75929897424
+HDOP: 2.2
+UTC: 235036.0
+utm_northing: 4689560.689437262
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727436.4162505,26,1675727436,416043996,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393183333
+longitude: -71.0869216667
+altitude: 32.0
+utm_easting: 328083.75929897424
+HDOP: 2.2
+UTC: 235037.0
+utm_northing: 4689560.689437262
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727437.4200323,27,1675727437,419264078,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393183333
+longitude: -71.0869216667
+altitude: 31.9
+utm_easting: 328083.75929897424
+HDOP: 2.2
+UTC: 235038.0
+utm_northing: 4689560.689437262
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727438.419269,28,1675727438,418680906,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393166667
+longitude: -71.08692
+altitude: 31.9
+utm_easting: 328083.8920590376
+HDOP: 2.2
+UTC: 235039.0
+utm_northing: 4689560.500996792
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727439.420087,29,1675727439,419316053,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393166667
+longitude: -71.08692
+altitude: 31.9
+utm_easting: 328083.8920590376
+HDOP: 2.2
+UTC: 235040.0
+utm_northing: 4689560.500996792
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727440.4212341,30,1675727440,419543027,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393166667
+longitude: -71.08692
+altitude: 31.9
+utm_easting: 328083.8920590376
+HDOP: 2.2
+UTC: 235041.0
+utm_northing: 4689560.500996792
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727441.4206116,31,1675727441,419586896,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393166667
+longitude: -71.08692
+altitude: 31.9
+utm_easting: 328083.8920590376
+HDOP: 2.2
+UTC: 235042.0
+utm_northing: 4689560.500996792
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727442.4198687,32,1675727442,419023990,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393166667
+longitude: -71.08692
+altitude: 31.9
+utm_easting: 328083.8920590376
+HDOP: 2.2
+UTC: 235043.0
+utm_northing: 4689560.500996792
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727443.420997,33,1675727443,419384956,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393166667
+longitude: -71.08692
+altitude: 31.9
+utm_easting: 328083.8920590376
+HDOP: 2.2
+UTC: 235044.0
+utm_northing: 4689560.500996792
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727444.4200556,34,1675727444,419502019,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393166667
+longitude: -71.08692
+altitude: 31.9
+utm_easting: 328083.8920590376
+HDOP: 2.2
+UTC: 235045.0
+utm_northing: 4689560.500996792
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727445.4213927,35,1675727445,419509887,,2,/talker,"header: ""$GPGGA""
+latitude: 42.339315
+longitude: -71.08692
+altitude: 31.9
+utm_easting: 328083.8875168562
+HDOP: 2.2
+UTC: 235046.0
+utm_northing: 4689560.3159261225
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727446.419991,36,1675727446,419449090,,2,/talker,"header: ""$GPGGA""
+latitude: 42.339315
+longitude: -71.08692
+altitude: 31.9
+utm_easting: 328083.8875168562
+HDOP: 2.2
+UTC: 235047.0
+utm_northing: 4689560.3159261225
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727447.4203188,37,1675727447,419785976,,2,/talker,"header: ""$GPGGA""
+latitude: 42.339315
+longitude: -71.08692
+altitude: 31.9
+utm_easting: 328083.8875168562
+HDOP: 2.2
+UTC: 235048.0
+utm_northing: 4689560.3159261225
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727448.4216602,38,1675727448,420408010,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33932
+longitude: -71.08692
+altitude: 31.9
+utm_easting: 328083.9011434005
+HDOP: 2.2
+UTC: 235049.0
+utm_northing: 4689560.871138127
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727449.4215696,39,1675727449,420013904,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869166667
+altitude: 31.9
+utm_easting: 328084.1848322295
+HDOP: 2.2
+UTC: 235050.0
+utm_northing: 4689561.234539865
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727450.4201927,40,1675727450,419626951,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869183333
+altitude: 31.9
+utm_easting: 328084.0475299958
+HDOP: 2.2
+UTC: 235051.0
+utm_northing: 4689561.2379096635
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727451.4197516,41,1675727451,419102907,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393266667
+longitude: -71.0869183333
+altitude: 31.9
+utm_easting: 328084.0566143526
+HDOP: 2.2
+UTC: 235052.0
+utm_northing: 4689561.608050998
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727452.458512,42,1675727452,458002090,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393266667
+longitude: -71.0869183333
+altitude: 31.9
+utm_easting: 328084.0566143526
+HDOP: 2.9
+UTC: 235053.0
+utm_northing: 4689561.608050998
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727453.4199688,43,1675727453,418299913,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393266667
+longitude: -71.0869183333
+altitude: 31.9
+utm_easting: 328084.0566143526
+HDOP: 2.9
+UTC: 235054.0
+utm_northing: 4689561.608050998
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727454.4591782,44,1675727454,457535028,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393266667
+longitude: -71.0869183333
+altitude: 31.9
+utm_easting: 328084.0566143526
+HDOP: 2.9
+UTC: 235055.0
+utm_northing: 4689561.608050998
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727455.4584112,45,1675727455,457864999,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393266667
+longitude: -71.0869183333
+altitude: 31.9
+utm_easting: 328084.0566143526
+HDOP: 2.9
+UTC: 235056.0
+utm_northing: 4689561.608050998
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727456.4579325,46,1675727456,457403898,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393266667
+longitude: -71.0869183333
+altitude: 31.9
+utm_easting: 328084.0566143526
+HDOP: 2.9
+UTC: 235057.0
+utm_northing: 4689561.608050998
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727457.4200685,47,1675727457,419544935,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393266667
+longitude: -71.0869183333
+altitude: 31.9
+utm_easting: 328084.0566143526
+HDOP: 2.9
+UTC: 235058.0
+utm_northing: 4689561.608050998
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727458.4589393,48,1675727458,458379983,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393283333
+longitude: -71.0869183333
+altitude: 31.9
+utm_easting: 328084.06115653133
+HDOP: 2.9
+UTC: 235059.0
+utm_northing: 4689561.793121668
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727459.4205961,49,1675727459,419998884,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393283333
+longitude: -71.0869183333
+altitude: 31.9
+utm_easting: 328084.06115653133
+HDOP: 2.9
+UTC: 235100.0
+utm_northing: 4689561.793121668
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727460.4769144,50,1675727460,474915981,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869183333
+altitude: 31.8
+utm_easting: 328084.06569871004
+HDOP: 2.9
+UTC: 235101.0
+utm_northing: 4689561.978192337
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727461.42026,51,1675727461,419719934,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869183333
+altitude: 31.6
+utm_easting: 328084.06569871004
+HDOP: 2.9
+UTC: 235102.0
+utm_northing: 4689561.978192337
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727462.4583147,52,1675727462,457343101,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0869166667
+altitude: 31.5
+utm_easting: 328084.20754310465
+HDOP: 2.9
+UTC: 235103.0
+utm_northing: 4689562.159893206
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727463.4585133,53,1675727463,457715034,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.086915
+altitude: 31.3
+utm_easting: 328084.3448453181
+HDOP: 2.9
+UTC: 235104.0
+utm_northing: 4689562.156523409
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727464.4245434,54,1675727464,423870086,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.0869166667
+altitude: 31.3
+utm_easting: 328084.2120852801
+HDOP: 2.9
+UTC: 235105.0
+utm_northing: 4689562.344963874
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727465.4225907,55,1675727465,421911954,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.0869166667
+altitude: 31.3
+utm_easting: 328084.2120852801
+HDOP: 2.2
+UTC: 235106.0
+utm_northing: 4689562.344963874
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727466.4218009,56,1675727466,421083927,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.086915
+altitude: 31.2
+utm_easting: 328084.34938749
+HDOP: 2.2
+UTC: 235107.0
+utm_northing: 4689562.341594076
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727467.4229407,57,1675727467,421243906,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.0869166667
+altitude: 31.0
+utm_easting: 328084.2257118074
+HDOP: 2.2
+UTC: 235108.0
+utm_northing: 4689562.900175882
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727468.4234033,58,1675727468,422821998,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.0869166667
+altitude: 31.0
+utm_easting: 328084.2257118074
+HDOP: 2.2
+UTC: 235109.0
+utm_northing: 4689562.900175882
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727469.4258182,59,1675727469,425297975,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.0869166667
+altitude: 31.0
+utm_easting: 328084.2257118074
+HDOP: 2.2
+UTC: 235110.0
+utm_northing: 4689562.900175882
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727470.422174,60,1675727470,421370983,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.0869166667
+altitude: 31.0
+utm_easting: 328084.2257118074
+HDOP: 2.2
+UTC: 235111.0
+utm_northing: 4689562.900175882
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727471.423134,61,1675727471,422492980,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.0869166667
+altitude: 31.0
+utm_easting: 328084.2257118074
+HDOP: 2.2
+UTC: 235112.0
+utm_northing: 4689562.900175882
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727472.424557,62,1675727472,422909021,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.0869166667
+altitude: 31.0
+utm_easting: 328084.2257118074
+HDOP: 2.2
+UTC: 235113.0
+utm_northing: 4689562.900175882
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727473.424677,63,1675727473,422858953,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.0869166667
+altitude: 31.0
+utm_easting: 328084.2257118074
+HDOP: 2.2
+UTC: 235114.0
+utm_northing: 4689562.900175882
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727474.4231687,64,1675727474,422640085,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.0869166667
+altitude: 31.0
+utm_easting: 328084.2257118074
+HDOP: 2.2
+UTC: 235115.0
+utm_northing: 4689562.900175882
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727475.4251113,65,1675727475,423461914,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.0869166667
+altitude: 31.0
+utm_easting: 328084.2257118074
+HDOP: 2.2
+UTC: 235116.0
+utm_northing: 4689562.900175882
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727476.424058,66,1675727476,423379898,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.0869166667
+altitude: 31.0
+utm_easting: 328084.2257118074
+HDOP: 2.2
+UTC: 235117.0
+utm_northing: 4689562.900175882
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727477.4246032,67,1675727477,423831939,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.0869166667
+altitude: 31.0
+utm_easting: 328084.2257118074
+HDOP: 2.2
+UTC: 235118.0
+utm_northing: 4689562.900175882
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727478.423355,68,1675727478,422712087,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.086915
+altitude: 30.6
+utm_easting: 328084.36755617877
+HDOP: 2.3
+UTC: 235119.0
+utm_northing: 4689563.081876752
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727479.4241087,69,1675727479,423548936,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.086915
+altitude: 30.6
+utm_easting: 328084.36755617877
+HDOP: 2.3
+UTC: 235120.0
+utm_northing: 4689563.081876752
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727480.4233952,70,1675727480,422637939,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0869133333
+altitude: 30.4
+utm_easting: 328084.5048583762
+HDOP: 2.3
+UTC: 235121.0
+utm_northing: 4689563.078506959
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727481.4238513,71,1675727481,423094034,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0869116667
+altitude: 30.0
+utm_easting: 328084.64216056943
+HDOP: 2.3
+UTC: 235122.0
+utm_northing: 4689563.075137167
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727482.4260752,72,1675727482,422765970,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.08691
+altitude: 29.6
+utm_easting: 328084.77492060536
+HDOP: 2.3
+UTC: 235123.0
+utm_northing: 4689562.886696712
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727483.4241688,73,1675727483,423533916,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.08691
+altitude: 29.6
+utm_easting: 328084.77946276683
+HDOP: 2.3
+UTC: 235124.0
+utm_northing: 4689563.071767379
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727484.4250286,74,1675727484,423154115,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.08691
+altitude: 29.3
+utm_easting: 328084.77492060536
+HDOP: 2.3
+UTC: 235125.0
+utm_northing: 4689562.886696712
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727485.4253209,75,1675727485,423971891,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393366667
+longitude: -71.08691
+altitude: 29.3
+utm_easting: 328084.77037844394
+HDOP: 2.3
+UTC: 235126.0
+utm_northing: 4689562.701626043
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727486.423801,76,1675727486,423161983,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393366667
+longitude: -71.08691
+altitude: 29.3
+utm_easting: 328084.77037844394
+HDOP: 2.3
+UTC: 235127.0
+utm_northing: 4689562.701626043
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727487.4232981,77,1675727487,422812938,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.0869083333
+altitude: 29.1
+utm_easting: 328084.8985963336
+HDOP: 2.3
+UTC: 235128.0
+utm_northing: 4689562.3281149175
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727488.4248154,78,1675727488,423892974,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.0869083333
+altitude: 29.1
+utm_easting: 328084.8985963336
+HDOP: 2.3
+UTC: 235129.0
+utm_northing: 4689562.3281149175
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727489.424925,79,1675727489,423089027,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393283333
+longitude: -71.0869083333
+altitude: 28.9
+utm_easting: 328084.8849698621
+HDOP: 2.3
+UTC: 235130.0
+utm_northing: 4689561.772902913
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727490.4246764,80,1675727490,424099922,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393283333
+longitude: -71.0869083333
+altitude: 28.9
+utm_easting: 328084.8849698621
+HDOP: 2.3
+UTC: 235131.0
+utm_northing: 4689561.772902913
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727491.4250815,81,1675727491,424184083,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393283333
+longitude: -71.0869083333
+altitude: 28.9
+utm_easting: 328084.8849698621
+HDOP: 2.3
+UTC: 235132.0
+utm_northing: 4689561.772902913
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727492.4242206,82,1675727492,423306941,,2,/talker,"header: ""$GPGGA""
+latitude: 42.339325
+longitude: -71.0869083333
+altitude: 29.0
+utm_easting: 328084.8758855485
+HDOP: 2.3
+UTC: 235133.0
+utm_northing: 4689561.402761576
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727493.425168,83,1675727493,424618005,,2,/talker,"header: ""$GPGGA""
+latitude: 42.339325
+longitude: -71.0869083333
+altitude: 29.0
+utm_easting: 328084.8758855485
+HDOP: 2.3
+UTC: 235134.0
+utm_northing: 4689561.402761576
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727494.42419,84,1675727494,423295021,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869083333
+altitude: 29.1
+utm_easting: 328084.87134339195
+HDOP: 2.3
+UTC: 235135.0
+utm_northing: 4689561.217690909
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727495.4250667,85,1675727495,424489021,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869083333
+altitude: 29.1
+utm_easting: 328084.87134339195
+HDOP: 2.3
+UTC: 235136.0
+utm_northing: 4689561.217690909
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727496.4247024,86,1675727496,424096107,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235137.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727497.4259887,87,1675727497,424957036,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235138.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727498.42491,88,1675727498,424482107,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235139.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727499.4255915,89,1675727499,424896955,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235140.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727500.4269168,90,1675727500,425091981,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235141.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727501.4261856,91,1675727501,425168991,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235142.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727502.4671452,92,1675727502,466005086,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235143.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727503.4277644,93,1675727503,425919055,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235144.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727504.4660769,94,1675727504,465125083,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235145.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727505.4668012,95,1675727505,465774059,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235146.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727506.4653628,96,1675727506,464843988,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235147.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727507.4267929,97,1675727507,425873994,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235148.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727508.4671195,98,1675727508,465420961,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235149.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727509.427511,99,1675727509,425854921,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235150.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727510.4270673,100,1675727510,425273895,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235151.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727511.4266934,101,1675727511,425853013,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235152.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727512.4658573,102,1675727512,465212106,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235153.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727513.4271116,103,1675727513,426229953,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235154.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727514.4662216,104,1675727514,465682983,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235155.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727515.4665558,105,1675727515,465632915,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235156.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727516.4256923,106,1675727516,424411058,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235157.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727517.4238417,107,1675727517,423381090,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235158.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727518.427042,108,1675727518,426306009,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235159.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727519.4272997,109,1675727519,426335096,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235200.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727520.4430177,110,1675727520,440148115,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235201.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727521.4283466,111,1675727521,426668882,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235202.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727522.428088,112,1675727522,427485942,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235203.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727523.4293084,113,1675727523,427699089,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235204.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727524.425289,114,1675727524,424967050,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235205.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727525.4286976,115,1675727525,428071022,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235206.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727526.4297795,116,1675727526,428191900,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235207.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727527.4289587,117,1675727527,428323030,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235208.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727528.4300773,118,1675727528,428250074,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235209.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727529.4304395,119,1675727529,428776979,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235210.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727530.4274054,120,1675727530,426882028,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235211.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727531.4292662,121,1675727531,427567958,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393216667
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0041034728
+HDOP: 2.3
+UTC: 235212.0
+utm_northing: 4689561.029250456
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727532.42957,122,1675727532,427906990,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235213.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727533.4290342,123,1675727533,428049087,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235214.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727534.4282491,124,1675727534,427561998,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235215.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727535.4301174,125,1675727535,427973031,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235216.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727536.42921,126,1675727536,428425073,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235217.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727537.429602,127,1675727537,428487062,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235218.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727538.4292414,128,1675727538,428603887,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235219.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727539.431553,129,1675727539,428416013,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.8
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235220.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727540.4298089,130,1675727540,429090023,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235221.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727541.4300451,131,1675727541,429415941,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235222.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727542.429414,132,1675727542,428905010,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235223.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727543.4299567,133,1675727543,429406881,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235224.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727544.4305446,134,1675727544,429991006,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235225.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727545.4314249,135,1675727545,429795980,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235226.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727546.429638,136,1675727546,429322957,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235227.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727547.432855,137,1675727547,429745912,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235228.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727548.4309766,138,1675727548,429394006,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235229.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727549.4306214,139,1675727549,429562091,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235230.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727550.4299939,140,1675727550,429282903,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235231.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727551.4295516,141,1675727551,428987026,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235232.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727552.430634,142,1675727552,428988933,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235233.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727553.469818,143,1675727553,469242095,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235234.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727554.4300425,144,1675727554,429367065,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235235.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727555.4697456,145,1675727555,469327926,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235236.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727556.4708264,146,1675727556,470151901,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235237.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727557.4708056,147,1675727557,470067024,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235238.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727558.470544,148,1675727558,469755887,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235239.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727559.4339588,149,1675727559,430463075,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235240.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727560.432211,150,1675727560,430473089,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235241.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727561.4318628,151,1675727561,430833101,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235242.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727562.4318223,152,1675727562,431009054,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235243.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727563.4692445,153,1675727563,468661069,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235244.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727564.431242,154,1675727564,430557966,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393233333
+longitude: -71.0869066667
+altitude: 29.7
+utm_easting: 328085.0086456256
+HDOP: 2.3
+UTC: 235245.0
+utm_northing: 4689561.214321126
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727565.466781,155,1675727565,466164112,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393266667
+longitude: -71.0869016667
+altitude: 29.5
+utm_easting: 328085.42963660666
+HDOP: 2.3
+UTC: 235246.0
+utm_northing: 4689561.574353129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727566.4705195,156,1675727566,470000982,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393266667
+longitude: -71.0869033333
+altitude: 29.5
+utm_easting: 328085.29233438027
+HDOP: 2.3
+UTC: 235247.0
+utm_northing: 4689561.577722903
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727567.430149,157,1675727567,429239988,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.4
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235248.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727568.4324884,158,1675727568,430874109,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.4
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235249.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727569.431727,159,1675727569,431180000,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.4
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235250.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727570.432519,160,1675727570,430676937,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.4
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235251.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727571.4323308,161,1675727571,431206941,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.4
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235252.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727572.4324963,162,1675727572,431483983,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.4
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235253.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727573.434127,163,1675727573,431998014,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.4
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235254.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727574.4315834,164,1675727574,431010961,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.4
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235255.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727575.4325368,165,1675727575,430953979,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.4
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235256.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727576.430764,166,1675727576,430423974,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.4
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235257.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727577.4286942,167,1675727577,428035974,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.4
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235258.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727578.4271767,168,1675727578,426862001,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.4
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235259.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727579.4328291,169,1675727579,431195020,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.3
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235300.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727580.4287539,170,1675727580,428205966,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.3
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235301.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727581.4325314,171,1675727581,431366920,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0869
+altitude: 29.3
+utm_easting: 328085.57602310856
+HDOP: 2.3
+UTC: 235302.0
+utm_northing: 4689561.941124694
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727582.4319448,172,1675727582,430824041,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235303.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727583.4309218,173,1675727583,429949998,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235304.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727584.433084,174,1675727584,431453943,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235305.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727585.4329665,175,1675727585,432063102,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235306.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727586.4284906,176,1675727586,427901983,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235307.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727587.4336705,177,1675727587,432053089,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235308.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727588.4337726,178,1675727588,432166099,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235309.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727589.4305046,179,1675727589,430176973,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235310.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727590.4321778,180,1675727590,430690050,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235311.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727591.431543,181,1675727591,430634021,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235312.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727592.4326181,182,1675727592,431689977,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235313.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727593.4280455,183,1675727593,427719116,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235314.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727594.4284427,184,1675727594,428056001,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235315.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727595.4338706,185,1675727595,432259082,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235316.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727596.4283857,186,1675727596,427989959,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868983333
+altitude: 29.3
+utm_easting: 328085.7133253255
+HDOP: 2.3
+UTC: 235317.0
+utm_northing: 4689561.937754924
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727597.432395,187,1675727597,431616067,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.086895
+altitude: 28.9
+utm_easting: 328085.98792976164
+HDOP: 2.3
+UTC: 235318.0
+utm_northing: 4689561.931015394
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727598.433403,188,1675727598,432511091,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.086895
+altitude: 28.9
+utm_easting: 328085.98792976164
+HDOP: 2.3
+UTC: 235319.0
+utm_northing: 4689561.931015394
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727599.432266,189,1675727599,430934906,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.086895
+altitude: 28.9
+utm_easting: 328085.98792976164
+HDOP: 2.3
+UTC: 235320.0
+utm_northing: 4689561.931015394
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727600.4342847,190,1675727600,432796955,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.086895
+altitude: 28.9
+utm_easting: 328085.98792976164
+HDOP: 2.3
+UTC: 235321.0
+utm_northing: 4689561.931015394
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727601.4313102,191,1675727601,430843114,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.086895
+altitude: 28.9
+utm_easting: 328085.98792976164
+HDOP: 2.3
+UTC: 235322.0
+utm_northing: 4689561.931015394
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727602.430046,192,1675727602,429678916,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.9
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235323.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727603.434035,193,1675727603,433492898,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.9
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235324.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727604.4756637,194,1675727604,473738908,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.9
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235325.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727605.4309244,195,1675727605,430587053,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.9
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235326.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727606.473904,196,1675727606,473227024,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.9
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235327.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727607.4752257,197,1675727607,472496032,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.9
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235328.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727608.4738522,198,1675727608,473264932,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.9
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235329.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727609.474432,199,1675727609,473879098,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.9
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235330.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727610.433016,200,1675727610,432576894,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235331.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727611.4345207,201,1675727611,434063911,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235332.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727612.4333336,202,1675727612,432743072,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235333.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727613.4757152,203,1675727613,474095106,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235334.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727614.4351456,204,1675727614,434592008,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235335.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727615.4350276,205,1675727615,434468984,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235336.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727616.4743843,206,1675727616,473392963,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235337.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727617.475384,207,1675727617,474853992,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235338.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727618.4330246,208,1675727618,432405948,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235339.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727619.4337404,209,1675727619,432764053,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235340.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727620.4330368,210,1675727620,432631969,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235341.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727621.4342887,211,1675727621,433542966,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235342.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727622.4333353,212,1675727622,432832002,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235343.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727623.4357,213,1675727623,434787988,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235344.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727624.4353433,214,1675727624,434838056,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235345.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727625.432441,215,1675727625,431863069,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235346.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727626.4353201,216,1675727626,434458971,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235347.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727627.4359753,217,1675727627,434350967,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235348.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727628.433819,218,1675727628,432663917,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235349.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727629.4330087,219,1675727629,432001113,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235350.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727630.4373195,220,1675727630,435534954,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235351.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727631.4328735,221,1675727631,432321071,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235352.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727632.4366577,222,1675727632,435631036,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235353.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727633.433722,223,1675727633,433314085,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235354.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727634.4328864,224,1675727634,432543039,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235355.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727635.4377847,225,1675727635,435131072,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235356.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727636.43661,226,1675727636,436033964,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235357.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727637.4330006,227,1675727637,432785034,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235358.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727638.4367442,228,1675727638,435604095,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235359.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727639.4366162,229,1675727639,435986042,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235400.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727640.4368827,230,1675727640,436054944,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235401.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727641.4367633,231,1675727641,435966014,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235402.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727642.4324093,232,1675727642,431950092,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235403.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727643.437854,233,1675727643,436297893,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235404.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727644.4364133,234,1675727644,436079978,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235405.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727645.4370697,235,1675727645,436331033,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235406.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727646.4377477,236,1675727646,436160087,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235407.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727647.4349368,237,1675727647,433823108,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.3
+UTC: 235408.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727648.4350781,238,1675727648,434412956,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.5
+UTC: 235409.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727649.437697,239,1675727649,437175035,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 3.0
+UTC: 235410.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727650.4405055,240,1675727650,439605951,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 3.0
+UTC: 235411.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727651.4379282,241,1675727651,437031984,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 3.0
+UTC: 235412.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727652.4405255,242,1675727652,438782930,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235413.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727653.4353707,243,1675727653,434818983,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235414.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727654.437258,244,1675727654,436708927,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235415.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727655.4791272,245,1675727655,478446006,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235416.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727656.4356701,246,1675727656,435221910,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235417.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727657.4782238,247,1675727657,477401971,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235418.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727658.4781876,248,1675727658,476893901,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235419.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727659.477396,249,1675727659,476921081,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235420.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727660.4807394,250,1675727660,479238986,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235421.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727661.4402308,251,1675727661,439378023,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235422.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727662.4415727,252,1675727662,439358949,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235423.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727663.4406207,253,1675727663,440041065,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235424.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727664.4800549,254,1675727664,479506969,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235425.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727665.4414594,255,1675727665,440265893,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235426.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727666.441656,256,1675727666,440493106,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235427.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727667.4770668,257,1675727667,476474046,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235428.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727668.4806528,258,1675727668,478615999,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235429.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727669.443892,259,1675727669,443423986,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.8
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235430.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727670.4547744,260,1675727670,453457117,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868933333
+altitude: 28.9
+utm_easting: 328086.1252319786
+HDOP: 2.4
+UTC: 235431.0
+utm_northing: 4689561.927645632
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727671.4404771,261,1675727671,438807964,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868916667
+altitude: 29.0
+utm_easting: 328086.26253419765
+HDOP: 2.4
+UTC: 235432.0
+utm_northing: 4689561.924275873
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727672.440368,262,1675727672,438611984,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868916667
+altitude: 29.1
+utm_easting: 328086.26253419765
+HDOP: 2.4
+UTC: 235433.0
+utm_northing: 4689561.924275873
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727673.4410505,263,1675727673,439294099,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868916667
+altitude: 29.2
+utm_easting: 328086.26253419765
+HDOP: 2.4
+UTC: 235434.0
+utm_northing: 4689561.924275873
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727674.440728,264,1675727674,439130067,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33933
+longitude: -71.0868916667
+altitude: 29.3
+utm_easting: 328086.26253419765
+HDOP: 2.4
+UTC: 235435.0
+utm_northing: 4689561.924275873
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727675.4414165,265,1675727675,439763069,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0868916667
+altitude: 29.4
+utm_easting: 328086.2670763185
+HDOP: 2.4
+UTC: 235436.0
+utm_northing: 4689562.109346542
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727676.4417312,266,1675727676,440983057,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0868916667
+altitude: 29.5
+utm_easting: 328086.2670763185
+HDOP: 2.4
+UTC: 235437.0
+utm_northing: 4689562.109346542
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727677.441005,267,1675727677,440000057,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0868916667
+altitude: 29.6
+utm_easting: 328086.2670763185
+HDOP: 2.4
+UTC: 235438.0
+utm_northing: 4689562.109346542
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727678.4415977,268,1675727678,439752101,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0868916667
+altitude: 29.8
+utm_easting: 328086.2670763185
+HDOP: 2.4
+UTC: 235439.0
+utm_northing: 4689562.109346542
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727679.4408987,269,1675727679,439990043,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0868916667
+altitude: 29.9
+utm_easting: 328086.2670763185
+HDOP: 2.4
+UTC: 235440.0
+utm_northing: 4689562.109346542
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727680.4402437,270,1675727680,439843893,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0868916667
+altitude: 30.0
+utm_easting: 328086.2670763185
+HDOP: 2.4
+UTC: 235441.0
+utm_northing: 4689562.109346542
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727681.440683,271,1675727681,440068960,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0868916667
+altitude: 30.1
+utm_easting: 328086.2670763185
+HDOP: 2.4
+UTC: 235442.0
+utm_northing: 4689562.109346542
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727682.4409444,272,1675727682,440440893,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0868916667
+altitude: 30.2
+utm_easting: 328086.2670763185
+HDOP: 2.4
+UTC: 235443.0
+utm_northing: 4689562.109346542
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727683.4406128,273,1675727683,439491033,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393316667
+longitude: -71.0868916667
+altitude: 30.3
+utm_easting: 328086.2670763185
+HDOP: 2.4
+UTC: 235444.0
+utm_northing: 4689562.109346542
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727684.4401278,274,1675727684,439558029,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.08689
+altitude: 30.4
+utm_easting: 328086.4089206513
+HDOP: 2.4
+UTC: 235445.0
+utm_northing: 4689562.291047452
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727685.4403112,275,1675727685,439779996,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.08689
+altitude: 30.5
+utm_easting: 328086.4089206513
+HDOP: 2.4
+UTC: 235446.0
+utm_northing: 4689562.291047452
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727686.4364686,276,1675727686,436167955,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.08689
+altitude: 30.6
+utm_easting: 328086.4089206513
+HDOP: 2.4
+UTC: 235447.0
+utm_northing: 4689562.291047452
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727687.4411886,277,1675727687,439354896,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.08689
+altitude: 30.7
+utm_easting: 328086.4089206513
+HDOP: 2.4
+UTC: 235448.0
+utm_northing: 4689562.291047452
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727688.4410467,278,1675727688,440483093,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.08689
+altitude: 30.8
+utm_easting: 328086.4089206513
+HDOP: 2.4
+UTC: 235449.0
+utm_northing: 4689562.291047452
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727689.4437568,279,1675727689,440176963,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.08689
+altitude: 31.0
+utm_easting: 328086.4089206513
+HDOP: 2.4
+UTC: 235450.0
+utm_northing: 4689562.291047452
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727690.441211,280,1675727690,439582109,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.08689
+altitude: 31.1
+utm_easting: 328086.4089206513
+HDOP: 2.4
+UTC: 235451.0
+utm_northing: 4689562.291047452
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727691.4414687,281,1675727691,439858913,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.08689
+altitude: 31.2
+utm_easting: 328086.4089206513
+HDOP: 2.4
+UTC: 235452.0
+utm_northing: 4689562.291047452
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727692.4404752,282,1675727692,439913034,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.08689
+altitude: 31.3
+utm_easting: 328086.4089206513
+HDOP: 2.4
+UTC: 235453.0
+utm_northing: 4689562.291047452
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727693.437196,283,1675727693,436778068,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.08689
+altitude: 31.4
+utm_easting: 328086.4089206513
+HDOP: 2.4
+UTC: 235454.0
+utm_northing: 4689562.291047452
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727694.4419005,284,1675727694,440169095,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393333333
+longitude: -71.08689
+altitude: 31.5
+utm_easting: 328086.4089206513
+HDOP: 2.4
+UTC: 235455.0
+utm_northing: 4689562.291047452
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727695.4384065,285,1675727695,436785936,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.0868866667
+altitude: 34.0
+utm_easting: 328086.6971514017
+HDOP: 3.1
+UTC: 235456.0
+utm_northing: 4689562.839519956
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727696.4338107,286,1675727696,433434963,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393416667
+longitude: -71.0868833333
+altitude: 35.5
+utm_easting: 328086.98084000824
+HDOP: 3.1
+UTC: 235457.0
+utm_northing: 4689563.202921799
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727697.4450526,287,1675727697,442147016,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393416667
+longitude: -71.0868833333
+altitude: 35.5
+utm_easting: 328086.98084000824
+HDOP: 2.4
+UTC: 235458.0
+utm_northing: 4689563.202921799
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727698.4412816,288,1675727698,440154075,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393416667
+longitude: -71.0868833333
+altitude: 35.5
+utm_easting: 328086.98084000824
+HDOP: 2.4
+UTC: 235459.0
+utm_northing: 4689563.202921799
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727699.4411752,289,1675727699,440642118,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393416667
+longitude: -71.0868833333
+altitude: 35.6
+utm_easting: 328086.98084000824
+HDOP: 2.4
+UTC: 235500.0
+utm_northing: 4689563.202921799
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727700.4407854,290,1675727700,440253973,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393416667
+longitude: -71.0868833333
+altitude: 35.6
+utm_easting: 328086.98084000824
+HDOP: 2.4
+UTC: 235501.0
+utm_northing: 4689563.202921799
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727701.440876,291,1675727701,440110921,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393416667
+longitude: -71.0868833333
+altitude: 35.6
+utm_easting: 328086.98084000824
+HDOP: 2.4
+UTC: 235502.0
+utm_northing: 4689563.202921799
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727702.4399822,292,1675727702,439043998,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.086885
+altitude: 36.0
+utm_easting: 328086.8480799242
+HDOP: 2.4
+UTC: 235503.0
+utm_northing: 4689563.391362213
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727703.4412713,293,1675727703,440479040,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.086885
+altitude: 36.0
+utm_easting: 328086.8480799242
+HDOP: 2.4
+UTC: 235504.0
+utm_northing: 4689563.391362213
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727704.441055,294,1675727704,440440893,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.086885
+altitude: 36.0
+utm_easting: 328086.8480799242
+HDOP: 2.4
+UTC: 235505.0
+utm_northing: 4689563.391362213
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727705.4417083,295,1675727705,440649986,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.086885
+altitude: 36.0
+utm_easting: 328086.8480799242
+HDOP: 2.4
+UTC: 235506.0
+utm_northing: 4689563.391362213
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727706.478928,296,1675727706,478282928,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.086885
+altitude: 36.0
+utm_easting: 328086.8480799242
+HDOP: 2.4
+UTC: 235507.0
+utm_northing: 4689563.391362213
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727707.4419377,297,1675727707,440130949,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.086885
+altitude: 36.0
+utm_easting: 328086.8480799242
+HDOP: 2.4
+UTC: 235508.0
+utm_northing: 4689563.391362213
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727708.4800267,298,1675727708,479161977,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.086885
+altitude: 36.0
+utm_easting: 328086.8480799242
+HDOP: 2.4
+UTC: 235509.0
+utm_northing: 4689563.391362213
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727709.4422107,299,1675727709,441679954,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.086885
+altitude: 36.0
+utm_easting: 328086.8480799242
+HDOP: 2.4
+UTC: 235510.0
+utm_northing: 4689563.391362213
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727710.4412656,300,1675727710,440644025,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.086885
+altitude: 36.0
+utm_easting: 328086.8480799242
+HDOP: 2.4
+UTC: 235511.0
+utm_northing: 4689563.391362213
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727711.4418983,301,1675727711,441323995,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.086885
+altitude: 36.0
+utm_easting: 328086.8480799242
+HDOP: 2.4
+UTC: 235512.0
+utm_northing: 4689563.391362213
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727712.4421763,302,1675727712,441252946,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.086885
+altitude: 36.1
+utm_easting: 328086.8480799242
+HDOP: 2.4
+UTC: 235513.0
+utm_northing: 4689563.391362213
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727713.441042,303,1675727713,440287113,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.086885
+altitude: 37.1
+utm_easting: 328086.8389957096
+HDOP: 2.4
+UTC: 235514.0
+utm_northing: 4689563.021220874
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727714.44096,304,1675727714,440404891,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393383333
+longitude: -71.086885
+altitude: 38.0
+utm_easting: 328086.83445360255
+HDOP: 2.4
+UTC: 235515.0
+utm_northing: 4689562.836150208
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727715.4413729,305,1675727715,440573930,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393366667
+longitude: -71.086885
+altitude: 38.9
+utm_easting: 328086.8299114957
+HDOP: 2.4
+UTC: 235516.0
+utm_northing: 4689562.651079538
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727716.4418352,306,1675727716,440833091,,2,/talker,"header: ""$GPGGA""
+latitude: 42.339335
+longitude: -71.0868833333
+altitude: 39.8
+utm_easting: 328086.9626715949
+HDOP: 2.4
+UTC: 235517.0
+utm_northing: 4689562.462639125
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727717.4414725,307,1675727717,440939903,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.6
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235518.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727718.4426336,308,1675727718,442001104,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.7
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235519.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727719.4799652,309,1675727719,479296922,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.7
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235520.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727720.442493,310,1675727720,441941976,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.7
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235521.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727721.442766,311,1675727721,442189931,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.7
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235522.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727722.442667,312,1675727722,441596984,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.7
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235523.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727723.4437423,313,1675727723,442151069,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.7
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235524.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727724.4829783,314,1675727724,481247901,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.7
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235525.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727725.4439428,315,1675727725,443114995,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.7
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235526.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727726.4820127,316,1675727726,479916095,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.7
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235527.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727727.4401653,317,1675727727,439587116,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.7
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235528.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727728.4438026,318,1675727728,443092107,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.7
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235529.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727729.4817579,319,1675727729,481213092,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868833333
+altitude: 40.7
+utm_easting: 328086.97629790474
+HDOP: 2.4
+UTC: 235530.0
+utm_northing: 4689563.017851129
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727730.4427202,320,1675727730,442154884,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.0868816667
+altitude: 41.1
+utm_easting: 328087.1136000998
+HDOP: 2.4
+UTC: 235531.0
+utm_northing: 4689563.014481386
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727731.4436526,321,1675727731,442373037,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33934
+longitude: -71.08688
+altitude: 41.6
+utm_easting: 328087.250902297
+HDOP: 2.4
+UTC: 235532.0
+utm_northing: 4689563.011111647
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727732.4433742,322,1675727732,442770004,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868783333
+altitude: 41.5
+utm_easting: 328087.3972886796
+HDOP: 2.4
+UTC: 235533.0
+utm_northing: 4689563.377883248
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727733.4458358,323,1675727733,444189071,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868783333
+altitude: 41.5
+utm_easting: 328087.3972886796
+HDOP: 2.4
+UTC: 235534.0
+utm_northing: 4689563.377883248
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727734.445274,324,1675727734,443677902,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868783333
+altitude: 41.5
+utm_easting: 328087.3972886796
+HDOP: 2.4
+UTC: 235535.0
+utm_northing: 4689563.377883248
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727735.479146,325,1675727735,478663921,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868783333
+altitude: 41.5
+utm_easting: 328087.3972886796
+HDOP: 2.4
+UTC: 235536.0
+utm_northing: 4689563.377883248
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727736.4432864,326,1675727736,442353010,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868783333
+altitude: 41.5
+utm_easting: 328087.3972886796
+HDOP: 3.1
+UTC: 235537.0
+utm_northing: 4689563.377883248
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727737.4444911,327,1675727737,443762063,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868783333
+altitude: 41.5
+utm_easting: 328087.3972886796
+HDOP: 2.4
+UTC: 235538.0
+utm_northing: 4689563.377883248
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727738.4438324,328,1675727738,443254947,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868783333
+altitude: 41.5
+utm_easting: 328087.3972886796
+HDOP: 2.4
+UTC: 235539.0
+utm_northing: 4689563.377883248
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727739.4468474,329,1675727739,445210933,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868783333
+altitude: 41.5
+utm_easting: 328087.3972886796
+HDOP: 2.4
+UTC: 235540.0
+utm_northing: 4689563.377883248
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727740.444052,330,1675727740,443252086,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868783333
+altitude: 41.5
+utm_easting: 328087.3972886796
+HDOP: 3.1
+UTC: 235541.0
+utm_northing: 4689563.377883248
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727741.445333,331,1675727741,444524049,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868783333
+altitude: 41.5
+utm_easting: 328087.3972886796
+HDOP: 2.4
+UTC: 235542.0
+utm_northing: 4689563.377883248
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727742.444828,332,1675727742,444292068,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868783333
+altitude: 41.5
+utm_easting: 328087.3972886796
+HDOP: 2.4
+UTC: 235543.0
+utm_northing: 4689563.377883248
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727743.4446633,333,1675727743,443917036,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868766667
+altitude: 42.0
+utm_easting: 328087.5345908653
+HDOP: 2.4
+UTC: 235544.0
+utm_northing: 4689563.3745135125
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727744.4463658,334,1675727744,444665908,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393416667
+longitude: -71.086875
+altitude: 42.5
+utm_easting: 328087.66735096957
+HDOP: 2.4
+UTC: 235545.0
+utm_northing: 4689563.186073112
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727745.4454758,335,1675727745,444739103,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393416667
+longitude: -71.086875
+altitude: 42.9
+utm_easting: 328087.66735096957
+HDOP: 2.4
+UTC: 235546.0
+utm_northing: 4689563.186073112
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727746.445112,336,1675727746,444535017,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393416667
+longitude: -71.0868733333
+altitude: 43.5
+utm_easting: 328087.804653161
+HDOP: 2.4
+UTC: 235547.0
+utm_northing: 4689563.182703383
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727747.4455786,337,1675727747,444837093,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235548.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727748.445798,338,1675727748,445292949,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235549.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727749.4466338,339,1675727749,445849895,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235550.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727750.446173,340,1675727750,445638895,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235551.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727751.4468756,341,1675727751,445801019,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235552.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727752.4466689,342,1675727752,445707082,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235553.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727753.4471571,343,1675727753,446413040,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235554.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727754.4466963,344,1675727754,445616960,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235555.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727755.446115,345,1675727755,445615053,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235556.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727756.481858,346,1675727756,481542110,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235557.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727757.4465878,347,1675727757,445909976,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235558.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727758.485057,348,1675727758,484528064,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235559.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727759.4467912,349,1675727759,446204900,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.0868716667
+altitude: 43.6
+utm_easting: 328087.9464974328
+HDOP: 2.4
+UTC: 235600.0
+utm_northing: 4689563.364404325
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727760.4448023,350,1675727760,444102048,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.08687
+altitude: 43.9
+utm_easting: 328088.0837996205
+HDOP: 2.4
+UTC: 235601.0
+utm_northing: 4689563.361034601
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727761.4454408,351,1675727761,444611072,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393433333
+longitude: -71.08687
+altitude: 44.3
+utm_easting: 328088.0837996205
+HDOP: 2.4
+UTC: 235602.0
+utm_northing: 4689563.361034601
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727762.444511,352,1675727762,444288969,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868716667
+altitude: 43.9
+utm_easting: 328087.95558158983
+HDOP: 2.4
+UTC: 235603.0
+utm_northing: 4689563.734545663
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727763.4471035,353,1675727763,445362091,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868716667
+altitude: 43.9
+utm_easting: 328087.95558158983
+HDOP: 2.4
+UTC: 235604.0
+utm_northing: 4689563.734545663
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727764.4462144,354,1675727764,445460081,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868716667
+altitude: 43.9
+utm_easting: 328087.95558158983
+HDOP: 2.4
+UTC: 235605.0
+utm_northing: 4689563.734545663
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727765.4475348,355,1675727765,445615053,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868716667
+altitude: 43.9
+utm_easting: 328087.95558158983
+HDOP: 2.4
+UTC: 235606.0
+utm_northing: 4689563.734545663
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727766.4471364,356,1675727766,446054935,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868716667
+altitude: 43.9
+utm_easting: 328087.95558158983
+HDOP: 2.4
+UTC: 235607.0
+utm_northing: 4689563.734545663
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727767.4466057,357,1675727767,445703983,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868716667
+altitude: 43.9
+utm_easting: 328087.95558158983
+HDOP: 2.4
+UTC: 235608.0
+utm_northing: 4689563.734545663
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727768.4462674,358,1675727768,445749044,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868716667
+altitude: 43.9
+utm_easting: 328087.95558158983
+HDOP: 2.4
+UTC: 235609.0
+utm_northing: 4689563.734545663
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727769.4860077,359,1675727769,484421014,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868716667
+altitude: 43.9
+utm_easting: 328087.95558158983
+HDOP: 2.4
+UTC: 235610.0
+utm_northing: 4689563.734545663
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727770.446979,360,1675727770,446036100,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868716667
+altitude: 43.9
+utm_easting: 328087.95558158983
+HDOP: 2.4
+UTC: 235611.0
+utm_northing: 4689563.734545663
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727771.4447799,361,1675727771,444032907,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868716667
+altitude: 43.9
+utm_easting: 328087.95558158983
+HDOP: 3.1
+UTC: 235612.0
+utm_northing: 4689563.734545663
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727772.443682,362,1675727772,443026065,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868716667
+altitude: 43.9
+utm_easting: 328087.95558158983
+HDOP: 3.1
+UTC: 235613.0
+utm_northing: 4689563.734545663
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727773.4487016,363,1675727773,447912931,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868716667
+altitude: 43.9
+utm_easting: 328087.95558158983
+HDOP: 3.1
+UTC: 235614.0
+utm_northing: 4689563.734545663
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727774.4465835,364,1675727774,446018934,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.9
+utm_easting: 328088.0928837703
+HDOP: 2.4
+UTC: 235615.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727775.4859197,365,1675727775,483761072,,2,/talker,"header: ""$GPGGA""
+latitude: 42.339345
+longitude: -71.0868683333
+altitude: 44.0
+utm_easting: 328088.2256438815
+HDOP: 2.4
+UTC: 235616.0
+utm_northing: 4689563.54273555
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727776.4430788,366,1675727776,442711114,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.4
+UTC: 235617.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727777.4864614,367,1675727777,485944032,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.7
+UTC: 235618.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727778.4468958,368,1675727778,446363925,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.7
+UTC: 235619.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727779.4468868,369,1675727779,446088075,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.7
+UTC: 235620.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727780.4853177,370,1675727780,484802007,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.4
+UTC: 235621.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727781.447038,371,1675727781,446522951,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.4
+UTC: 235622.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727782.4465628,372,1675727782,446023941,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.4
+UTC: 235623.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727783.4475176,373,1675727783,446934938,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.4
+UTC: 235624.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727784.448573,374,1675727784,447760105,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.4
+UTC: 235625.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727785.4868388,375,1675727785,486104965,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.4
+UTC: 235626.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727786.447808,376,1675727786,447097063,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.4
+UTC: 235627.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727787.4481885,377,1675727787,447119951,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.7
+UTC: 235628.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727788.4481683,378,1675727788,447602033,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.7
+UTC: 235629.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727789.4496012,379,1675727789,447784900,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.08687
+altitude: 43.6
+utm_easting: 328088.0928837703
+HDOP: 2.7
+UTC: 235630.0
+utm_northing: 4689563.73117594
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727790.4480708,380,1675727790,447222948,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.08687
+altitude: 43.5
+utm_easting: 328088.09742584534
+HDOP: 2.4
+UTC: 235631.0
+utm_northing: 4689563.916246606
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727791.4466712,381,1675727791,445636987,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393466667
+longitude: -71.0868683333
+altitude: 43.4
+utm_easting: 328088.23018595285
+HDOP: 2.4
+UTC: 235632.0
+utm_northing: 4689563.727806219
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727792.448991,382,1675727792,447447061,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.08687
+altitude: 43.0
+utm_easting: 328088.09742584534
+HDOP: 2.4
+UTC: 235633.0
+utm_northing: 4689563.916246606
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727793.4496753,383,1675727793,448956966,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868716667
+altitude: 43.0
+utm_easting: 328087.96012366854
+HDOP: 2.4
+UTC: 235634.0
+utm_northing: 4689563.9196163295
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727794.4491587,384,1675727794,448245048,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868716667
+altitude: 43.0
+utm_easting: 328087.96012366854
+HDOP: 2.7
+UTC: 235635.0
+utm_northing: 4689563.9196163295
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727795.4492095,385,1675727795,448405981,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868716667
+altitude: 43.0
+utm_easting: 328087.96012366854
+HDOP: 2.7
+UTC: 235636.0
+utm_northing: 4689563.9196163295
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727796.4509299,386,1675727796,450071096,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868716667
+altitude: 43.0
+utm_easting: 328087.96012366854
+HDOP: 2.7
+UTC: 235637.0
+utm_northing: 4689563.9196163295
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727797.449844,387,1675727797,449083089,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868716667
+altitude: 43.0
+utm_easting: 328087.96012366854
+HDOP: 2.7
+UTC: 235638.0
+utm_northing: 4689563.9196163295
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727798.4492247,388,1675727798,448674917,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868716667
+altitude: 43.0
+utm_easting: 328087.96012366854
+HDOP: 2.7
+UTC: 235639.0
+utm_northing: 4689563.9196163295
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727799.44935,389,1675727799,448793888,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868716667
+altitude: 43.0
+utm_easting: 328087.96012366854
+HDOP: 2.7
+UTC: 235640.0
+utm_northing: 4689563.9196163295
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727800.4499311,390,1675727800,449351072,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868716667
+altitude: 43.0
+utm_easting: 328087.96012366854
+HDOP: 2.7
+UTC: 235641.0
+utm_northing: 4689563.9196163295
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727801.4496207,391,1675727801,448867082,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868716667
+altitude: 43.0
+utm_easting: 328087.96012366854
+HDOP: 2.7
+UTC: 235642.0
+utm_northing: 4689563.9196163295
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727802.4501565,392,1675727802,449354887,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868716667
+altitude: 43.0
+utm_easting: 328087.96012366854
+HDOP: 2.4
+UTC: 235643.0
+utm_northing: 4689563.9196163295
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727803.4502974,393,1675727803,448407888,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.08687
+altitude: 42.9
+utm_easting: 328088.09742584534
+HDOP: 2.4
+UTC: 235644.0
+utm_northing: 4689563.916246606
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727804.4458008,394,1675727804,445230007,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868683333
+altitude: 42.9
+utm_easting: 328088.2347280242
+HDOP: 2.4
+UTC: 235645.0
+utm_northing: 4689563.912876884
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727805.4496233,395,1675727805,449079036,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868666667
+altitude: 43.0
+utm_easting: 328088.3720301989
+HDOP: 2.7
+UTC: 235646.0
+utm_northing: 4689563.909507166
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727806.4489818,396,1675727806,448256015,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868666667
+altitude: 43.1
+utm_easting: 328088.3720301989
+HDOP: 2.7
+UTC: 235647.0
+utm_northing: 4689563.909507166
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727807.4875772,397,1675727807,486586093,,2,/talker,"header: ""$GPGGA""
+latitude: 42.3393483333
+longitude: -71.0868683333
+altitude: 42.9
+utm_easting: 328088.2347280242
+HDOP: 2.7
+UTC: 235648.0
+utm_northing: 4689563.912876884
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727808.4903264,398,1675727808,489232063,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33935
+longitude: -71.0868683333
+altitude: 42.9
+utm_easting: 328088.2392700959
+HDOP: 2.7
+UTC: 235649.0
+utm_northing: 4689564.097947554
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727809.45071,399,1675727809,449831962,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33935
+longitude: -71.0868683333
+altitude: 42.9
+utm_easting: 328088.2392700959
+HDOP: 2.5
+UTC: 235650.0
+utm_northing: 4689564.097947554
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727810.4516559,400,1675727810,449446916,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33935
+longitude: -71.0868683333
+altitude: 42.9
+utm_easting: 328088.2392700959
+HDOP: 2.5
+UTC: 235651.0
+utm_northing: 4689564.097947554
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727811.449223,401,1675727811,448471069,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33935
+longitude: -71.0868683333
+altitude: 42.9
+utm_easting: 328088.2392700959
+HDOP: 3.1
+UTC: 235652.0
+utm_northing: 4689564.097947554
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727812.4483616,402,1675727812,447596073,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33935
+longitude: -71.0868683333
+altitude: 42.9
+utm_easting: 328088.2392700959
+HDOP: 3.1
+UTC: 235653.0
+utm_northing: 4689564.097947554
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
+1675727813.4515567,403,1675727813,450997114,,2,/talker,"header: ""$GPGGA""
+latitude: 42.33935
+longitude: -71.0868683333
+altitude: 42.9
+utm_easting: 328088.2392700959
+HDOP: 3.1
+UTC: 235654.0
+utm_northing: 4689564.097947554
+zone: 19
+letter: ""T""",gps_main.py,talker,56,"['/rosout', '/gps_message']"
