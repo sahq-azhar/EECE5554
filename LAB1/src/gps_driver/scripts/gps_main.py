@@ -21,6 +21,7 @@ def talker():
         line_split = input_serial.split("b'")
         comma_split = line_split[0].split(",")
         if comma_split[0] == "$GPGGA":
+
             latitude_gps = float(comma_split[2])
             latitude_mins = latitude_gps % 100
             latitude_degree = int(latitude_gps / 100)
@@ -31,15 +32,25 @@ def talker():
             longitude_degree = int(longitude_gps / 100)
             longitude = longitude_degree + (longitude_mins / 60)
             longitude = -longitude
+
             u = utm.from_latlon(latitude, longitude)
+
             altitude = float(comma_split[9])
-            
+   hdop = float(comma_split[8])
+   utc = float(comma_split[1])
+           
             msg.header = comma_split[0]
             msg.latitude = latitude
             msg.longitude = longitude
             msg.altitude = altitude
             msg.utm_easting = u[0]
             msg.utm_northing = u[1]
+   msg.HDOP = hdop
+   msg.UTC = utc
+
+            msg.utm_northing = u[1]
+
+
             msg.zone = u[2]
             msg.letter = u[3]
             rospy.loginfo(msg)
@@ -48,5 +59,3 @@ def talker():
 
 if __name__ == '__main__':
     talker()
-
-
