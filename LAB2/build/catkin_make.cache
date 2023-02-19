@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/saad/azhar/LAB2/devel -DCMAKE_INSTALL_PREFIX=/home/saad/azhar/LAB2/install -G Unix Makefiles
