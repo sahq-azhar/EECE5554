@@ -1,6 +1,0 @@
-<launch>
-        <arg name="serial_port"/> 
-        <node name="imu" pkg="imu_driver" type="test.py" output="screen" >
-         <param name="port" value="$(arg port)"/>
-        </node>
-</launch>
